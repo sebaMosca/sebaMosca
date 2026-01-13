@@ -26,17 +26,13 @@
 <br>
 
 <div align="center">
-  <h3>🚧 Perfil en Refactorización 🚧</h3>
-  <p><i>Actualizando proyectos, stack tecnológico y documentación...</i></p>
-  
-  <div align="center">
+ <div align="center">
     <h3>
       <img src="https://api.iconify.design/svg-spinners:bars-scale-fade.svg?color=%23336699" width="30" valign="middle" alt="loading" /> 
       Perfil en Construcción
     </h3>
     <p><i>Actualizando repositorios...</i></p>
   </div>
-  
   <br><br>
 </div>
 
